@@ -1,0 +1,40 @@
+# BTC_A1 Token Website
+
+This repository contains the official website files for **BTC_A1 Token**, including:
+
+- `index.html` — Main HTML page of the website  
+- `style.css` — CSS file for styling the website  
+- `logo.png` — Token logo  
+- `whitepaper.pdf` — Official whitepaper of BTC_A1 Token  
+
+## About BTC_A1 Token
+
+BTC_A1 is a high-security, fully decentralized cryptocurrency with advanced features. The token is designed for global trading.
+
+- **Contract Address:** `0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e`  
+  *(Copy and use for BscScan, PancakeSwap, and wallets)*
+
+- **Total Supply:** 21,000,000 BTC_A1  
+- **Market Circulation:** 1,950,000 BTC_A1  
+
+- Official BscScan Link: [View on BscScan](https://bscscan.com/token/0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e)  
+- Official Telegram: [https://t.me/btc_a1_official](https://t.me/btc_a1_official)  
+- PancakeSwap Buy Link: [Swap BNB → BTC_A1](https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e)
+
+## Features
+
+- High security and fully decentralized  
+- Compatible with PancakeSwap and BSC wallets  
+- Modern responsive website design  
+- Easy access to token info and whitepaper  
+
+## How to Use
+
+1. Open `index.html` in your browser.  
+2. Access token info, links to PancakeSwap, BscScan, and Telegram.  
+3. Copy the contract address for wallet or DEX interactions.  
+4. Read the whitepaper for detailed information about BTC_A1 Token.  
+
+## License
+
+This project is open-source and free to use.
