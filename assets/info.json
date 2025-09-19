@@ -1,0 +1,11 @@
+{
+  "name": "BTC_A1",
+  "symbol": "BTC_A1",
+  "type": "BEP20",
+  "decimals": 18,
+  "website": "https://btc-a1.xyz",
+  "description": "BTC_A1 is a decentralized BEP20 token on Binance Smart Chain with Bitcoin-level security and fixed supply. Community driven and fully transparent.",
+  "explorer": "https://bscscan.com/token/0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e",
+  "status": "active",
+  "id": "0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e"
+}
