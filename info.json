@@ -1,6 +1,6 @@
 {
-  "name": "BTC_A1",
-  "symbol": "BTC_A1",
+  "name": "BTCA1",
+  "symbol": "B",
   "type": "BEP20",
   "decimals": 18,
   "description": "BTC_A1 is a next-generation decentralized BEP20 token on Binance Smart Chain, designed with Bitcoin-level security and a fixed total supply. Our mission is to create a secure, transparent, and community-driven token that empowers holders and supports long-term growth.",
