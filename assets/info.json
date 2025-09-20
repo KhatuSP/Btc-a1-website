@@ -3,9 +3,20 @@
   "symbol": "BTC_A1",
   "type": "BEP20",
   "decimals": 18,
-  "website": "https://btc-a1.xyz",
-  "description": "BTC_A1 is a decentralized BEP20 token on Binance Smart Chain with Bitcoin-level security and fixed supply. Community driven and fully transparent.",
+  "description": "BTC_A1 is a next-generation decentralized BEP20 token on Binance Smart Chain, designed with Bitcoin-level security and a fixed total supply. Our mission is to create a secure, transparent, and community-driven token that empowers holders and supports long-term growth.",
+  "extended_description": "Key Features:\n- Decentralized governance\n- Fixed total supply: 21,000,000 BTC_A1\n- Secure and immutable smart contract\n- Active community support\n\nStay connected and get the latest updates via our official channels:\nTelegram: https://t.me/btc_a1_official\nGitHub: https://github.com/khatuSP/btc-a1-website",
+  "website": "https://btc-a1.com",
   "explorer": "https://bscscan.com/token/0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e",
   "status": "active",
-  "id": "0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e"
+  "id": "0xde9b14f65cdc02941cb13feb3824d23e3f5a7f5e",
+  "links": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/btc_a1_official"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/khatuSP/btc-a1-website"
+    }
+  ]
 }
