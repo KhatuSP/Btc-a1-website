@@ -28,6 +28,6 @@
 ## Trust Wallet Listing
 [![Trust Wallet](https://raw.githubusercontent.com/khatusp/btc-a1-website/main/logo.png)](https://community.trustwallet.com/t/how-to-add-your-token)
 
-## Notes
+## Noteshttps://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png
 - This repository contains all official assets for BTCA1 Token.  
 - Do not modify the logo or contract details without proper authorization.
