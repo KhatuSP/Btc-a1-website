@@ -20,8 +20,8 @@
 - **File:** `logo.png`  
 - **Format:** PNG  
 - **Resolution:** 256×256 px  
-- **Background:** Black  
-- **Symbol:** Sky-blue “B”  
+- **Background:** Orange (#FFA500)
+- **Symbol:** White “B”  (Cripto Style) 
 
 ## Official Links
 - 🌐 [Website](https://btc-a1.xyz)  
