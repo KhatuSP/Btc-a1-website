@@ -32,7 +32,7 @@
 ## Trust Wallet Listing
 All assets required for Trust Wallet listing are included in this repository:  
 
-- `logo.png` – Token logo (black background, sky-blue “B”)  
+- `logo.png` – Token logo (Orange background, White “B”)  
 - `info.json` – Token metadata required by Trust Wallet  
 - `whitepaper.pdf` – Official token whitepaper  
 
