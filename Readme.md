@@ -23,7 +23,7 @@
 - **Symbol:** White “B”  (Cripto Style) 
 
 ## Official Links
-- 🌐 [Website](https://btc-a1.xyz)  
+- 🌐 [Website](https://btca1.xyz)  
 - 📊 [BscScan](https://bscscan.com/token/0xC773573Dd0d086f47bcDe524CbAa6795A13d20fe)  
 - 💬 [Telegram](https://t.me/btc_a1_official)  
 - 📂 [GitHub Repository](https://github.com/KhatuSP/Btc-a1-website.git)  
